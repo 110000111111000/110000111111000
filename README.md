@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @110000111111000
-- 🌱 I’m currently learning Python, Bash Scripting.
+- 🌱 I’m currently curious about ML world.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vajiheh.sabzali@gmail.com
 
